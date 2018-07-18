@@ -1,0 +1,15 @@
+
+*.log
+__MACOSX/
+node_modules
+.project
+release
+sqlite/
+ssl/
+stacktrace*
+tmp
+build
+package-lock.json
+.vs/
+.vscode
+.idea/
